@@ -2,7 +2,7 @@
 
 > O objetivo deste projeto é treinar classes em c++.
 
-Arquivo no git: <https://github.com/lucasnathaniel/FrogRun>
+Arquivo no git: <https://github.com/KaliNathalie/FrogRun>
 
 ## Compilação
 
@@ -15,4 +15,4 @@ $ cd bin/ && make && cd ..
 ```
 $ ./bin/FrogRun
 ```
-By: Lucas Nathaniel
+By: Kali Nathalie
